@@ -1,0 +1,15 @@
+*.sdf
+*.suo
+*.exe
+*.ilk
+*.pdb
+*.opensdf
+x64
+ipch
+*.user
+
+# Build results
+[Dd]ebug/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
